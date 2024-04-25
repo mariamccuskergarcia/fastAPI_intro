@@ -1,0 +1,42 @@
+[
+    {
+        "tag": "iphone",
+        "price": 1000,
+        "name": "Apple iPhone"
+    },
+    {
+        "tag": "ipad",
+        "price": 800,
+        "name": "Apple iPad"
+    },
+    {
+        "tag": "macbookair",
+        "price": 1200,
+        "name": "Apple MacBook Air"
+    },
+    {
+        "tag": "macbookpro",
+        "price": 1800,
+        "name": "Apple MacBook Pro"
+    },
+    {
+        "tag": "airpodspro",
+        "price": 200,
+        "name": "Apple AirPods Pro"
+    },
+    {
+        "tag": "iwatch",
+        "price": 600,
+        "name": "Apple Watch"
+    },
+    {
+        "tag": "appletv",
+        "price": 100,
+        "name": "Apple TV"
+    },
+    {
+        "tag": "appletv2",
+        "price": 200,
+        "name": "Apple TV"
+    }
+]
